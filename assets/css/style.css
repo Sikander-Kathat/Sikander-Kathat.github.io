@@ -281,7 +281,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color:rgb(12, 1, 1) ;
   font-weight: 500;
 }
 
@@ -291,7 +291,7 @@ nav ul li a {
 }
 
 .hero-content .list-social li i {
-  color: #fff;
+  color: rgb(12, 1, 1);
   font-size: 15px;
 }
 
